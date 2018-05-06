@@ -1,4 +1,4 @@
 # altimeter
 altimeter for glider RC model
 
-include: Atmega8a, HC-05, microSD and RTC
+include: Arduino Pro Mini on 328, HC-05, microSD and RTC
